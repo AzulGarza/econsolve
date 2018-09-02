@@ -1,2 +1,2 @@
 # econsolve
-Python package to solve diverse economy models.
+Python package to solve diverse economic models.
